@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Stream流详解</title>
+      <link href="/posts/f4bdeaec.html"/>
+      <url>/posts/f4bdeaec.html</url>
+      
+        <content type="html"><![CDATA[<p>#概述<br>本文主要讲述Java中Stream流的具体使用方法，Stream流是JDK8中引入的新方法，极大简化我们对于数组、集合等数据结构的连续操作，使我们的代码更加便于维护<br>但我们要知道的是，Stream类属于惰性操作，即仅在数据全部输入完成后才进行计算</p><h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 入土 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CS </tag>
+            
+            <tag> Java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>HTML常用语法</title>
       <link href="/posts/1842814a.html"/>
       <url>/posts/1842814a.html</url>

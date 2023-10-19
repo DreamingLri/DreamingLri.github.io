@@ -4,35 +4,6 @@
   
     
     <entry>
-      <title>SpringBoot Swagger3引入</title>
-      <link href="/posts/add64f4b.html"/>
-      <url>/posts/add64f4b.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>网络上有很多关于SpringBoot引入Swagger的教程，但是大多是针对Swagger2.x版本的教程，本着一个程序员的优良传统，我使用了Swagger3.0.0，结果踩了不少坑，在此记录一下，也方便后来者</p><h1 id="Swagger3-x的引入"><a href="#Swagger3-x的引入" class="headerlink" title="Swagger3.x的引入"></a>Swagger3.x的引入</h1>]]></content>
-      
-      
-      <categories>
-          
-          <category> 入土 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> CS </tag>
-            
-            <tag> Java </tag>
-            
-            <tag> SpringBoot </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>SpringBoot Swagger3的引入</title>
       <link href="/posts/58e240ec.html"/>
       <url>/posts/58e240ec.html</url>
